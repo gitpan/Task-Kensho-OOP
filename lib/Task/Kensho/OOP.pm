@@ -4,8 +4,8 @@ package Task::Kensho::OOP;
 BEGIN {
   $Task::Kensho::OOP::AUTHORITY = 'cpan:PERIGRIN';
 }
-# git description: v0.34-TRIAL-42-g85a94a2
-$Task::Kensho::OOP::VERSION = '0.34001'; # TRIAL
+# git description: v0.34001-TRIAL-16-gbf1f050
+$Task::Kensho::OOP::VERSION = '0.34002'; # TRIAL
 # ABSTRACT: Object Oriented Programming
 
 __END__
@@ -20,7 +20,7 @@ Task::Kensho::OOP - Object Oriented Programming
 
 =head1 VERSION
 
-version 0.34001
+version 0.34002
 
 =head1 SYNOPSIS
 

@@ -4,7 +4,7 @@ Task::Kensho::OOP - Object Oriented Programming
 
 # VERSION
 
-version 0.34001
+version 0.34002
 
 # SYNOPSIS
 
