@@ -4,7 +4,7 @@ Task::Kensho::OOP - A Glimpse at an Enlightened Perl: Object Oriented Programmin
 
 # VERSION
 
-version 0.34003
+version 0.34004
 
 # SYNOPSIS
 

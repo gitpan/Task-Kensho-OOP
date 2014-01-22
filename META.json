@@ -1,5 +1,5 @@
 {
-   "abstract" : "A Glimpse at an Enlightened Perl: {{ $config_data->{$module}{description} }}",
+   "abstract" : "A Glimpse at an Enlightened Perl: Object Oriented Programming",
    "author" : [
       "Chris Prather <chris@prather.org>"
    ],
@@ -38,7 +38,7 @@
       "configure" : {
          "requires" : {
             "ExtUtils::MakeMaker" : "6.30",
-            "Module::Build::Tiny" : "0.033"
+            "Module::Build::Tiny" : "0.034"
          }
       },
       "develop" : {
@@ -50,7 +50,6 @@
             "IO::Handle" : "0",
             "IPC::Open3" : "0",
             "Pod::Coverage::TrustPod" : "0",
-            "Task::Moose" : "0",
             "Test::CPAN::Changes" : "0.19",
             "Test::CPAN::Meta" : "0",
             "Test::Kwalitee" : "1.12",
@@ -95,7 +94,7 @@
          "web" : "https://github.com/EnlightenedPerlOrganisation/task-kensho"
       }
    },
-   "version" : "0.34003",
+   "version" : "0.34004",
    "x_Dist_Zilla" : {
       "perl" : {
          "version" : "5.019007"
@@ -385,7 +384,7 @@
                   "prereqs" : {
                      "Task::Moose" : "0"
                   },
-                  "require_develop" : 1,
+                  "require_develop" : 0,
                   "type" : "requires"
                },
                "inc::OptionalFeatureForSubTask" : {
