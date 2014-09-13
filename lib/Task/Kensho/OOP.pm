@@ -1,8 +1,8 @@
 use strict;
 use warnings;
 package Task::Kensho::OOP;
-# git description: v0.36-30-ge11a066
-$Task::Kensho::OOP::VERSION = '0.37';
+# git description: v0.37-32-g6bd7a4b
+$Task::Kensho::OOP::VERSION = '0.38';
 # ABSTRACT: A Glimpse at an Enlightened Perl: Object Oriented Programming
 
 __END__
@@ -17,7 +17,7 @@ Task::Kensho::OOP - A Glimpse at an Enlightened Perl: Object Oriented Programmin
 
 =head1 VERSION
 
-version 0.37
+version 0.38
 
 =head1 SYNOPSIS
 
